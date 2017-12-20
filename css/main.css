@@ -1,0 +1,12 @@
+.div-initial {
+    background-color: lightcoral;
+    width: 100px;
+    height: 50px;
+}
+
+.classname {
+    background-color:yellow;
+    width: 100px;
+    height: 50px;
+    color: green;
+}
